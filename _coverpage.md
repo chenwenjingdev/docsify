@@ -1,15 +1,14 @@
 <!-- _coverpage.md -->
 
-![logo](img/icons8-key-security-100.png)
+![logo](./ico/icons8-key-security-100.png)
 
-# docsify <small>3.5</small>
+# 鄂东城 <small>1.0</small>
 
-> 一个神奇的文档网站生成器。
+> 这是一个有关《信息系统项目管理师》的学习笔记
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 考点总结
+- 易错题
+- 英语词汇
+- 计算题
 
-
-[Docsify帮助文档](https://docsify.js.org/#/zh-cn/)
-[Get Started](test.md )
+[开始](./doc/0%20%E6%AC%A2%E8%BF%8E.md)
