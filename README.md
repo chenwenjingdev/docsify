@@ -1,3 +1,3 @@
-# Headline
+# 欢迎加入！
 
-> An awesome project.
+> 这是一个有关《信息系统项目管理师》的知识学习笔记。
